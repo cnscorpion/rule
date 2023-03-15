@@ -379,7 +379,7 @@ proxy-groups:
   - SG
   - Final
   - DIRECT
-  icon: https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Final02.png
+  icon: https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Hulu.png
 
 - name: Final
   type: select
