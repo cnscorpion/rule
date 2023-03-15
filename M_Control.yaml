@@ -396,7 +396,7 @@ rule-providers:
     behavior: classical
     interval: 86400
     name: Myrule
-    url:https://raw.githubusercontent.com/cnscorpion/rule/b858a6df763baa78be3c8827ceefe368345124d9/my.yaml
+    url: https://raw.githubusercontent.com/cnscorpion/rule/b858a6df763baa78be3c8827ceefe368345124d9/my.yaml
 
   Netflix-rules:
     behavior: classical
