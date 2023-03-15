@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,nivod.tv
   - DOMAIN-SUFFIX,openaicom
   - DOMAIN-KEYWORD,nivod
+  - DOMAIN-KEYWORD,openai
