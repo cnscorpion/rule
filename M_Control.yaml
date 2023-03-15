@@ -503,7 +503,7 @@ rule-providers:
     behavior: classical
     interval: 86400
     name: Weibo
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Weibo/Weibo.yaml
+    url: https://raw.githubusercontent.com/cnscorpion/rule/main/Weibo.yaml
 
   Mainland-rules:
     behavior: classical
