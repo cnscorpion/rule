@@ -56,7 +56,7 @@ proxy-providers:
 
   MyProxy: &MyProxy #建立锚点
      #多机场用户请使用Sub-Store生成自己的订阅地址并替换以下url地址
-    url: https://sub.store/download/collection/MySub
+    url: https://sub.store/download/collection/AAaaa
     interval: 86400
     health-check:
       enable: true
