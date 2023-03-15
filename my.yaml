@@ -1,0 +1,13 @@
+# NAME: MyRule
+# AUTHOR: scorpion
+# REPO: https://github.com/cnscorpion/rule
+# UPDATED: 2023
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,nivodz.tv
+  - DOMAIN-SUFFIX,nivod4.tv
+  - DOMAIN-SUFFIX,nivod.tv
+  - DOMAIN-SUFFIX,openaicom
+  - DOMAIN-KEYWORD,nivod
