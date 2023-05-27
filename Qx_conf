@@ -74,6 +74,11 @@ https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/TestFlightDow
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=YouTube去广告, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_Cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/qiangxinglin/Emby/main/QuantumultX/emby.conf, tag=Emby Premiere, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机复写(⛔️去广告), update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机复写(😄️通用), update-interval=86400, opt-parser=false, enabled=true
+;Youtube premium 会员请勿开启此条
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=神机复写(🈲YouTube-AD) , update-interval=86400, opt-parser=false, enabled=false
+
 [server_local]
 
 [filter_local]
