@@ -17,5 +17,5 @@ DOMAIN-SUFFIX,poe.com
 #add bard.google.com
 DOMAIN-SUFFIX,bard.google.com
 #add slack.com
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slackb.com
+HOST-SUFFIX,slack.com
+HOST-SUFFIX,slackb.com
