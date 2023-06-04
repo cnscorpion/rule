@@ -46,7 +46,7 @@ static=漏网之鱼, 节点选择, 自动选择, 香港, 台湾, 日本, 韩国,
 
 [filter_remote]
 #AI分流
-https://raw.githubusercontent.com/cnscorpion/rule/main/ChatGpt.list,tag=🎯Youtube分流, force-policy=美国, update-interval=172800, opt-parser=false , enabled=true
+https://raw.githubusercontent.com/cnscorpion/rule/main/ChatGpt.list,tag=🎯AI分流, force-policy=美国, update-interval=172800, opt-parser=false , enabled=true
 #Youtube分流
 https://raw.githubusercontent.com/cnscorpion/rule/main/Youtube.list,tag=🎯Youtube分流, force-policy=美国, update-interval=172800, opt-parser=false , enabled=true
 # TikTok分流
