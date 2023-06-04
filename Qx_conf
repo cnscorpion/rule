@@ -45,6 +45,8 @@ static=漏网之鱼, 节点选择, 自动选择, 香港, 台湾, 日本, 韩国,
 
 
 [filter_remote]
+#AI分流
+https://raw.githubusercontent.com/cnscorpion/rule/main/ChatGpt.list,tag=🎯Youtube分流, force-policy=美国, update-interval=172800, opt-parser=false , enabled=true
 #Youtube分流
 https://raw.githubusercontent.com/cnscorpion/rule/main/Youtube.list,tag=🎯Youtube分流, force-policy=美国, update-interval=172800, opt-parser=false , enabled=true
 # TikTok分流
@@ -76,16 +78,16 @@ https://raw.githubusercontent.com/WeiRen0/Scripts/main/FD.js, tag=by-伟人,樊�
 https://raw.githubusercontent.com/cnscorpion/rule/main/Youbute.sgmoudule, tag=Youtube后台播放, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-TW.conf, tag=解锁TikTok台湾区, update-interval=86400, opt-parser=false, enabled=false
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-JP.conf, tag=解锁TikTok日本区, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-KR.conf, tag=解锁TikTok韩国区, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-KR.conf, tag=解锁TikTok韩国区, update-interval=86400, opt-parser=false, enabled=false
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-US.conf, tag=解锁TikTok美国区, update-interval=86400, opt-parser=false, enabled=false
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.tf.conf, tag=Boxjs, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_JS.conf, tag=比价等脚本, update-interval=86400, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/TestFlightDownload.conf , tag=TestFlight区域限制解除, update-interval=172800, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=YouTube去广告, update-interval=86400, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_Cookie.conf, tag=获取Cookie, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/qiangxinglin/Emby/main/QuantumultX/emby.conf, tag=Emby Premiere, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机复写(⛔️去广告), update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机复写(😄️通用), update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/qiangxinglin/Emby/main/QuantumultX/emby.conf, tag=Emby Premiere, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=神机复写(⛔️去广告), update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=神机复写(😄️通用), update-interval=86400, opt-parser=false, enabled=false
 ;Youtube premium 会员请勿开启此条
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=神机复写(🈲YouTube-AD) , update-interval=86400, opt-parser=false, enabled=false
 
