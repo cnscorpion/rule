@@ -28,6 +28,10 @@ doh-server=https://dns.alidns.com/dns-query
 
 
 [policy]
+url-latency-benchmark=Chatgpt, server-tag-regex=美国|US, check-interval=600, tolerance=0, alive-checking=false
+url-latency-benchmark=Youtube, resource-tag-regex=^DJ, server-tag-regex=美国, check-interval=600, tolerance=0, alive-checking=false, img-url=square.and.arrow.up.circle.system
+url-latency-benchmark=Bing, resource-tag-regex=^XJ, server-tag-regex=美国, check-interval=600, tolerance=0, alive-checking=false
+
 static=节点选择, 自动选择, 香港, 台湾, 日本, 韩国, 新加坡, 美国, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png
 # 默认设置10分钟测速一次，当前使用节点延迟和最新测速延迟最低的节点相差80ms以上则切换为最新的最低延迟节点，否则继续延用节点
 url-latency-benchmark=自动选择, server-tag-regex=.*, check-interval=600, tolerance=80, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Urltest.png
