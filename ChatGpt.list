@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,openai.com
+HOST-SUFFIX,openai.com
+HOST-KEYWORD,openai
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,identrust.com
