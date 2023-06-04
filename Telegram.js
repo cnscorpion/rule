@@ -50,3 +50,5 @@ $done({_responseFilter: function (resp) {
 if (selected_chat_id !== null) {
    pinChat(selected_chat_id);
 }
+
+$rewrite.*/chats/(all|pinned) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/cnscorpion/rule/main/Telegram.js
