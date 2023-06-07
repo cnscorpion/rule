@@ -1,1 +1,21 @@
 HOST-SUFFIX,sentry.io,chatgpt
+HOST-SUFFIX,sentry.io,chatgpt
+HOST-SUFFIX,pay.openai.com,chatgpt
+HOST-SUFFIX,identrust.com,chatgpt
+HOST,openaiapi-site.azureedge.net,chatgpt
+HOST-SUFFIX,chat.openai.com,chatgpt
+HOST-SUFFIX,challenges.cloudflare.com,chatgpt
+HOST-SUFFIX,auth0.openai.com,chatgpt
+HOST-SUFFIX,platform.openai.com,chatgpt
+# Add ai.com
+HOST-SUFFIX,ai.com,chatgpt
+# Add stripe.com,chatgpt
+HOST-SUFFIX,invoice.stripe.com,chatgpt
+HOST-SUFFIX,stripe.com,chatgpt
+#add poe.com
+HOST-SUFFIX,poe.com,chatgpt
+#add bard.google.com,chatgpt
+HOST-SUFFIX,bard.google.com,chatgpt
+#add slack.com
+HOST-SUFFIX,slack.com,chatgpt
+HOST-SUFFIX,slackb.com,chatgpt
