@@ -1,22 +1,23 @@
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,pay.openai.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,auth0.openai.com
-DOMAIN-SUFFIX,platform.openai.com
+HOST-SUFFIX,sentry.io
+HOST-SUFFIX,pay.openai.com
+HOST-SUFFIX,identrust.com
+HOST,openaiapi-site.azureedge.net
+HOST-SUFFIX,chat.openai.com
+HOST-SUFFIX,challenges.cloudflare.com
+HOST-SUFFIX,auth0.openai.com
+HOST-SUFFIX,platform.openai.com
 # Add ai.com
-DOMAIN-SUFFIX,ai.com
+HOST-SUFFIX,ai.com
 # Add stripe.com
-DOMAIN-SUFFIX,invoice.stripe.com
-DOMAIN-SUFFIX,stripe.com
+HOST-SUFFIX,invoice.stripe.com
+HOST-SUFFIX,stripe.com
 #add poe.com
-DOMAIN-SUFFIX,poe.com
+HOST-SUFFIX,poe.com
 #add bard.google.com
-DOMAIN-SUFFIX,bard.google.com
+HOST-SUFFIX,bard.google.com
 #add slack.com
 HOST-SUFFIX,slack.com
 HOST-SUFFIX,slackb.com
 
-
+HOST-SUFFIX,openai.com
+HOST-KEYWORD,openai
