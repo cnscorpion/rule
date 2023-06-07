@@ -19,5 +19,4 @@ DOMAIN-SUFFIX,bard.google.com
 HOST-SUFFIX,slack.com
 HOST-SUFFIX,slackb.com
 
-HOST-SUFFIX,openai.com
-HOST-KEYWORD,openai
+
