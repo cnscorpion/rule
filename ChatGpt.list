@@ -1,5 +1,3 @@
-HOST-SUFFIX,openai.com
-HOST-KEYWORD,openai
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,identrust.com
@@ -20,3 +18,6 @@ DOMAIN-SUFFIX,bard.google.com
 #add slack.com
 HOST-SUFFIX,slack.com
 HOST-SUFFIX,slackb.com
+
+HOST-SUFFIX,openai.com
+HOST-KEYWORD,openai
