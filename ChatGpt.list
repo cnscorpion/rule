@@ -3,6 +3,7 @@ HOST-SUFFIX,pay.openai.com,chatgpt
 HOST-SUFFIX,identrust.com,chatgpt
 HOST,openaiapi-site.azureedge.net,chatgpt
 HOST-SUFFIX,chat.openai.com,chatgpt
+HOST-SUFFIX,openai.com,chatgpt
 HOST-SUFFIX,challenges.cloudflare.com,chatgpt
 HOST-SUFFIX,auth0.openai.com,chatgpt
 HOST-SUFFIX,platform.openai.com,chatgpt
