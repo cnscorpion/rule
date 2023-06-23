@@ -68,7 +68,7 @@ i:    &a7 {type: http,     behavior: ipcidr,    interval: 86400}
 proxy-providers:
   Subscribe:
     <<: *a1
-    url: https://sub.xeton.dev/sub?target=clash&url=https://subs.danhu.ml/clash?token=4pF0SlXMhGNNIubw|https://djjc.cfd/api/v1/client/subscribe?token=f319a5d38f7216b8f694569b19068e03&list=true&udp=false 
+    url: https://sub.xeton.dev/sub?target=clash&url=https://subs.danhu.ml/clash?token=4pF0SlXMhGNNIubw&list=true&udp=false 
     path: ./proxy_providers/tmp.yaml
 
 
